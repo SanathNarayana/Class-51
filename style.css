@@ -1,0 +1,21 @@
+h1{
+ color:blue;
+}
+.header{
+    background-color:#00FFC3;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color:#00FFC3;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap; 
+}
+.anything{
+    background-color:#00FFC3;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
